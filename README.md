@@ -1,4 +1,4 @@
-# fibonacci solution (checking the the middel of the string)
+# fibonacci code (generating a sequence of number )
 
 
 ```bash
